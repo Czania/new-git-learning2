@@ -1,0 +1,22 @@
+body{
+    font-family: 'Baloo 2', cursive;
+    text-align: center;  
+}
+.song{
+     margin: 10% 0; 
+}
+.verse{
+    margin: 5% 0;
+}
+.chorus{
+    margin:8% 0;
+    color:red;
+}
+h1{
+    color: blue;
+    margin: 5px;
+    font-size: 36px;
+}
+p{
+    font-size: 18px;
+}
